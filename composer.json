@@ -1,5 +1,5 @@
 {
-    "name": "itsromack/ccs06-login-reg",
+    "name": "S4NG4L4NG/ccs06-login-reg_sangalang",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
